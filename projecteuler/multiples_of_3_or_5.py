@@ -6,4 +6,3 @@ def multiples_of_3_or_5():
 
 
 print(multiples_of_3_or_5())
-    
